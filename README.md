@@ -3,14 +3,15 @@ Simple python script that reads the metadata of photos and videos, and organises
 Uses TinyTag, PIL, PIL.ExifTags 
 
 Supported formats:
-	MP3 / MP2 / MP1 (ID3 v1, v1.1, v2.2, v2.3+)
-    	M4A (AAC / ALAC)
-	WAVE / WAV
-    	OGG (FLAC / Opus / Speex / Vorbis)
-    	FLAC
-	WMA
-	AIFF / AIFF-C
-	JPG
-	JPEG
-	PNG
-	GIF
+	
+&nbsp; MP3 / MP2 / MP1 (ID3 v1, v1.1, v2.2, v2.3+)
+&nbsp; M4A (AAC / ALAC)
+&nbsp; WAVE / WAV
+&nbsp; OGG (FLAC / Opus / Speex / Vorbis)
+&nbsp; FLAC
+&nbsp; WMA
+&nbsp; AIFF / AIFF-C
+&nbsp; JPG
+&nbsp; JPEG
+&nbsp; PNG
+&nbsp; GIF
