@@ -6,6 +6,7 @@
 ### Supported Formats
 - MP3 / MP2 / MP1 (ID3 v1, v1.1, v2.2, v2.3+) 
 - M4A (AAC / ALAC)
+- MP4
 - WAVE / WAV
 - OGG (FLAC / Opus / Speex / Vorbis)
 - FLAC
