@@ -1,9 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon May  5 22:20:27 2025
-@author: admin
+@author: Jamesasome
 """
-
 import os
 import shutil
 from PIL import Image, UnidentifiedImageError
