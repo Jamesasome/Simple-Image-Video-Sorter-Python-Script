@@ -4,25 +4,25 @@ Uses TinyTag, PIL, PIL.ExifTags
 
 Supported formats:
 
-`	           `MP3 / MP2 / MP1 (ID3 v1, v1.1, v2.2, v2.3+) 
+                 MP3 / MP2 / MP1 (ID3 v1, v1.1, v2.2, v2.3+) 
 
-`               `M4A (AAC / ALAC)
+                 M4A (AAC / ALAC)
 
-`               `WAVE / WAV
+                 WAVE / WAV
 
-`               `OGG (FLAC / Opus / Speex / Vorbis)
+                 OGG (FLAC / Opus / Speex / Vorbis)
 
-`               `FLAC
+                 FLAC
+ 
+                 WMA
+                 
+                 AIFF / AIFF-C
 
-`               `WMA
+                 JPG
 
-`               `AIFF / AIFF-C
+                 JPEG
+                  
+                 PNG
 
-`               `JPG
-
-`               `JPEG
-
-`               `PNG
-
-`               `GIF
+                 GIF
 
